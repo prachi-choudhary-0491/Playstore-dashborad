@@ -43,6 +43,14 @@ It’s a simple, data-driven dashboard that turns raw CSV data into visual insig
   - Comparison of free vs. paid apps
   - Overview of app content ratings and update frequency
 
+---
+📈 Possible Improvements
+
+  - Add time-based analysis to track trends over time
+  - Include interactive KPI cards for better summary visualization
+  - Integrate with live API data for automatic updates
+  - Publish the dashboard online using Power BI Service
+
 👤 Author
 Prachi Choudhary
 📧 prachichoudhary0491@gmail.com
